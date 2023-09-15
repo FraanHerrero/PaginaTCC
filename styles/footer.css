@@ -1,0 +1,38 @@
+.rodape {
+  border-top: 0.4px solid #ecd6c4;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.rodape-imagem {
+  height: 150px;
+  padding: 30px;
+}
+
+.rodape-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.rodape-sac-numero {
+  font-family: "Sarala", sans-serif;
+  color: #ecd6c4;
+  font-weight: 400;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.rodape-imagem-icone-1 {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.rodape-imagem-icone-2 {
+  height: 23px;
+  margin-right: 10px;
+}
